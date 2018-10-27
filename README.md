@@ -1,5 +1,5 @@
 # "Nigel's Excursion" - 2D-Side-Scrolling-Game
-This endless, 2D Side-Scrolling PC game was developed at the Beachhacks hackathon 2018.
+This endless, 2D Side-Scrolling PC game was developed at the Beachhacks hackathon 2018. It was developed in Unity using C#.
 
 You play as Nigel, a famous architect. As you were heading back home after a day of digging, you notice strange monsters, objects, and portals are scattered across your way back. Run as far as you can to make it back home!
 ## Table of Contents
