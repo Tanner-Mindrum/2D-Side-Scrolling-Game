@@ -1,3 +1,4 @@
 * linguist-vendored
-*.asp linguist-vendored=false
-*.cs linguist-vendored=true
+*.asp linguist-vendored=csharp
+*.csharp linguist-vendored
+*.csharp linguist-vendored=true
