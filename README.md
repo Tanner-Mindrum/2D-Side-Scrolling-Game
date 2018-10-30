@@ -38,7 +38,7 @@ The repository will now be cloned on your local machine.
 
 Locate where the repository was cloned to. Open the file and execute the "Nigel's Never-ending Excursion" .exe file to play the game.
 #### Method 2
-This method will go over cloning the repository to your local machine. In this example, I will be cloning the repository to the desktop; however, you can select whichever directory you'd like when cloning the repository to your local machine. Input these commands using the Git Bash program.
+This method will go over cloning the repository to your local machine using Git Bash commands. In this example, I will be cloning the repository to the desktop; however, you can select whichever directory you'd like when cloning the repository to your local machine. Input these commands using the Git Bash program.
 ```
 cd ~/Desktop/
 ```
