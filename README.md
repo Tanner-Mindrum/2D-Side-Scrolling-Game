@@ -67,3 +67,6 @@ IMPORTANT NOTES:
 The exit button is currently bugged and we are working on a fix. For now, use Alt + F4 to exit the game.
 
 We are continually working to enhance and update the game to bring you the most fun experience possible.
+
+Here is an image of how the game looks. Enjoy!
+https://imgur.com/a/Cek3lz6
